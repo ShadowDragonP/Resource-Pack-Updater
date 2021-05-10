@@ -4,7 +4,7 @@ Resource Pack Updater allows you to automatically change the pack format number 
 Note: This only works for resource packs as folders and not zipped archives. If you have any resource packs with the .zip extension, extract them to  a folder first.
 
 ## How to Use
-1. From the "Release" section on the right side of this page, download the program and run ResourcePackUpdater.exe.
+1. From the "Releases" section on the right side of this page, download the program and run ResourcePackUpdater.exe.
 2. Click "browse" and select the folder that contains your resource packs. If you don't want to update all of your resource packs, create a new folder and move the ones you want to update into the new folder. Select the new folder in ResourcePackUpdater.
 3. Enter the new pack format number.
 You can find the pack format number for your target version at: https://minecraft.fandom.com/wiki/Tutorials/Creating_a_resource_pack#.22pack_format.22
