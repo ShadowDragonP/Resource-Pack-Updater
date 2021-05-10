@@ -1,0 +1,13 @@
+C:\Users\Ryota\Programming\C#\ResourcePackUpdater\bin\Release\ResourcePackUpdater.exe.config
+C:\Users\Ryota\Programming\C#\ResourcePackUpdater\bin\Release\ResourcePackUpdater.exe
+C:\Users\Ryota\Programming\C#\ResourcePackUpdater\bin\Release\ResourcePackUpdater.pdb
+C:\Users\Ryota\Programming\C#\ResourcePackUpdater\bin\Release\Newtonsoft.Json.dll
+C:\Users\Ryota\Programming\C#\ResourcePackUpdater\bin\Release\Newtonsoft.Json.xml
+C:\Users\Ryota\Programming\C#\ResourcePackUpdater\obj\Release\ResourcePackUpdater.Form1.resources
+C:\Users\Ryota\Programming\C#\ResourcePackUpdater\obj\Release\ResourcePackUpdater.Properties.Resources.resources
+C:\Users\Ryota\Programming\C#\ResourcePackUpdater\obj\Release\ResourcePackUpdater.csproj.GenerateResource.cache
+C:\Users\Ryota\Programming\C#\ResourcePackUpdater\obj\Release\ResourcePackUpdater.csproj.CoreCompileInputs.cache
+C:\Users\Ryota\Programming\C#\ResourcePackUpdater\obj\Release\ResourcePackUpdater.csproj.CopyComplete
+C:\Users\Ryota\Programming\C#\ResourcePackUpdater\obj\Release\ResourcePackUpdater.exe
+C:\Users\Ryota\Programming\C#\ResourcePackUpdater\obj\Release\ResourcePackUpdater.pdb
+C:\Users\Ryota\Programming\C#\ResourcePackUpdater\obj\Release\ResourcePackUpdater.csprojAssemblyReference.cache
